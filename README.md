@@ -31,3 +31,6 @@
 · GPU云端平台使用教程（推荐一下colab）、教学生如何训练模型保存参数
 · 教学生怎么看参数问题（tensorboard的使用、过拟合欠拟合的判断等）、出了问题怎么调整
 · 题目来源平台：kaggle（上面有很多数据处理的比赛可以拿来当例子）
+
+
+![image](https://github.com/user-attachments/assets/f49065a9-d2dd-4166-9dd5-f6eccc651d63)
