@@ -12,7 +12,8 @@
 
 · 推荐语言：python 学习内容：python编程基础语法、numpy\pandas\pytorch等函数包的使用、工作环境搭建及pycharm、VScode等软件使用
 
-  推荐学习平台：菜鸟编程（https://www.runoob.com/）：囊括python教学、python中一些常用函数包、简单的AI算法教学等
+  推荐学习平台：菜鸟编程（https://www.runoob.com/）
+  ：囊括python教学、python中一些常用函数包、简单的AI算法教学等
 
   <img width="320" height="756" alt="image" src="https://github.com/user-attachments/assets/bd924eef-b7d2-4aa3-a52d-6c5cf06d7ee2" />
 
@@ -28,7 +29,12 @@
 
 · 各类算法介绍与实战训练
 
-· 推荐资料：吴恩达机器学习课程（https://github.com/fengdu78/deeplearning_ai_books）、李宏毅机器学习课程（2022版：https://speech.ee.ntu.edu.tw/~hylee/ml/2022-spring.php   2025版生成式AI：https://speech.ee.ntu.edu.tw/~hylee/ml/2025-spring.php）
+· 推荐资料：
+
+吴恩达机器学习课程（https://github.com/fengdu78/deeplearning_ai_books）
+
+李宏毅机器学习课程（2022版：https://speech.ee.ntu.edu.tw/~hylee/ml/2022-spring.php   
+2025版生成式AI：https://speech.ee.ntu.edu.tw/~hylee/ml/2025-spring.php）
 
 · 机器学习课程笔记：https://zhuanlan.zhihu.com/p/398323656
 
@@ -53,11 +59,15 @@
 
 · 算法运用、模型搭建
 
-· GPU云端平台使用教程（推荐一下colab：https://colab.research.google.com/#scrollTo=Wf5KrEb6vrkR）、教学生如何训练模型保存参数
+· GPU云端平台使用教程
+（推荐一下colab：https://colab.research.google.com/#scrollTo=Wf5KrEb6vrkR）
+
+教学生如何训练模型保存参数
 
 · 教学生怎么看参数问题（tensorboard的使用、过拟合欠拟合的判断等）、出了问题怎么调整
 
-· 题目来源平台：kaggle：https://www.kaggle.com/（上面有很多数据处理的比赛可以拿来当例子）
+· 题目来源平台：kaggle：https://www.kaggle.com/
+（上面有很多数据处理的比赛可以拿来当例子）
 
 
 ![image](https://github.com/user-attachments/assets/f49065a9-d2dd-4166-9dd5-f6eccc651d63)
